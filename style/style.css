@@ -1,0 +1,26 @@
+.nav-container {
+  position: fixed;
+  margin-top: 10px;
+  width: 100%;
+  z-index: 10;
+}
+
+.index {
+  background-color: #fc8f78;
+}
+
+.about {
+  background-color: #bdb9b9;
+}
+.project1 {
+  background-color: #fc8f78;
+}
+.project2 {
+  background-color: #bdb9b9;
+}
+.project3 {
+  background-color: #fc8f78;
+}
+.contact {
+  background-color: #bdb9b9;
+}
